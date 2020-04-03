@@ -1,0 +1,6 @@
+.idea
+images/*/*.jpg
+images/*/*.png
+images/*.png
+images/*.jpg
+.DS_Store
